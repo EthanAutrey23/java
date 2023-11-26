@@ -3,6 +3,7 @@
 	<name>LoginSystem</name>
 	<comment></comment>
 	<projects>
+		<project>BIS3523_Fall2023_Project</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
